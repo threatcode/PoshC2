@@ -13,7 +13,7 @@ rope = "*"
 [packages]
 pandas = "*"
 prompt-toolkit = "*"
-pycryptodome = "==3.18.0"
+pycryptodome = "==3.19.0"
 psycopg2-binary = "*"
 pyOpenSSL = "*"
 PyYAML = "*"
